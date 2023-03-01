@@ -1,0 +1,18 @@
+{
+    "builtin-baseline":"6ee546c698f4b7ceb5939af453fb088e814576b2",
+    "dependencies":[
+        {
+            "name":"tinyply",
+            "version>=":"2.3.4"
+        }
+    ],
+    "name":"pcl-dependency",
+    "overrides":[
+        {
+            "name":"tinyply",
+            "port-version":0,
+            "version-string":"2.3.4"
+        }
+    ],
+    "version-semver":"1.0.0"
+}
